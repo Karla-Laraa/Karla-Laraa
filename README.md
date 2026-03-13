@@ -46,10 +46,13 @@ Here are some projects I've worked on:
 ## 📫 Connect with Me
 
 <p>
-<a href="https://github.com/Karla-Laraa">GitHub</a>
+<a href="https://www.facebook.com/share/1AsqMtrJmz/?mibextid=wwXIfr">😸 Facebook 😸</a>
 </p>
 <p>
-<a href="https://www.instagram.com/x.krla_?igsh=MXN0dGV2ZWg2dG5odQ%3D%3D&utm_source=qr">GitHub</a>
+<a href="https://www.instagram.com/x.krla_?igsh=MXN0dGV2ZWg2dG5odQ%3D%3D&utm_source=qr">✨ Instagram ✨</a>
+</p>
+<p>
+<a href="https://www.linkedin.com/in/karla-azaideth-lara-barcenas-6b34643b7/">😸 LinkedIn 😸</a>
 </p>
 
 ---
