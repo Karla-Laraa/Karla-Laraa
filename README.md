@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Karla Lara
 
-🎓 Computer Systems Engineering student passionate about **software development, UX/UI design, and collaborative teamwork**.  
-💡 I enjoy building intuitive applications and transforming ideas into functional software.  
-🐱 Future engineer who also happens to love cats.
+Computer Systems Engineering student passionate about **software development, UX/UI design, and collaborative teamwork**.  
+I enjoy building intuitive applications and transforming ideas into functional software.  
+Future engineer who also happens to love cats.
 
 ---
 
-## 👩‍💻 About Me
+## About Me 😸💕
 
 - 🎓 Computer Systems Engineering student
 - 💻 Passionate about building software and web applications
