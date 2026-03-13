@@ -48,6 +48,9 @@ Here are some projects I've worked on:
 <p>
 <a href="https://github.com/Karla-Laraa">GitHub</a>
 </p>
+<p>
+<a href="https://www.instagram.com/x.krla_?igsh=MXN0dGV2ZWg2dG5odQ%3D%3D&utm_source=qr">GitHub</a>
+</p>
 
 ---
 
