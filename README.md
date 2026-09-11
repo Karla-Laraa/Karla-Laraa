@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Karla Lara
+# Hi there  I'm Karla Lara
 
 Computer Systems Engineering student passionate about **software development, UX/UI design, and collaborative teamwork**.  
 I enjoy building intuitive applications and transforming ideas into functional software.  
