@@ -8,15 +8,15 @@ Future engineer who also happens to love cats.
 
 ## About Me 😸💕
 
-- 🎓 Computer Systems Engineering student
-- 💻 Passionate about building software and web applications
-- 🎨 Interested in User Experience (UX) and User Interface (UI) design
-- 🤝 I enjoy working in teams and collaborating on projects
-- 🌱 Always learning new technologies
+- Computer Systems Engineering student
+- Passionate about building software and web applications
+- Interested in User Experience (UX) and User Interface (UI) design
+- I enjoy working in teams and collaborating on projects
+- Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,mysql,react,nodejs,git,github,vscode" />
@@ -24,18 +24,17 @@ Future engineer who also happens to love cats.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 Here are some projects I've worked on:
 
-- 🎮 UNO Game with Dice – Java Swing desktop application  
-- 💬 Java Chat System – GUI-based messaging system  
-- 🗄️ Store Database System – relational database using MySQL  
-- 🌐 Web Applications using React and Node.js  
+- Java Chat System – GUI-based messaging system  
+- Store Database System – relational database using MySQL  
+- Web Applications using React and Node.js  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Karla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karla-Laraa&show_icons=true)
 
@@ -43,7 +42,7 @@ Here are some projects I've worked on:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p>
 <a href="https://www.facebook.com/share/1AsqMtrJmz/?mibextid=wwXIfr">😸 Facebook 😸</a>
